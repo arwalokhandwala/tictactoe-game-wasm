@@ -1,4 +1,3 @@
-// quick_example.cpp
 #include <emscripten/bind.h>
 #include <emscripten/val.h>
 
